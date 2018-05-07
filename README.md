@@ -1,3 +1,3 @@
 # intern
 
-localhostindex.phpから参照してください。
+localhost/index.phpから参照してください。
