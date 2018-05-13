@@ -1,4 +1,5 @@
 <?php
+//動画の名前を決める
 session_start();
 ?>
 <!DOCTYPE html>
@@ -55,7 +56,7 @@ if (isset($_SESSION["loginUser"])or(!isset($_COOKIE["logincookie"]))!=null) {
 <?php
         }
 }else{
-header("Location:http://co-245.it.3919.com/login.php");	
+header("Location:http://localhost/login.php");	
 }
 ?>
 </body>
