@@ -6,6 +6,7 @@
 </head>
 <body>
 <?php
+//入力したことの確認
 	$handle=htmlspecialchars($_POST["handle"]);
 	$comment=htmlspecialchars($_POST["comment"]);
     /*local server ver*/
