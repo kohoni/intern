@@ -99,11 +99,11 @@ function error($errorType) {
     break;
     
     case 2:
-    $errorMsg = "IDが違います";
+    $errorMsg = "IDもしくはパスワードが違います";
     break;
     
     case 3:
-    $errorMsg = "パスワードが違います";
+    $errorMsg = "IDもしくはパスワードが違います";
     break;
 }
 ?>	
