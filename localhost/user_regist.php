@@ -1,5 +1,6 @@
 
 <?php
+//会員登録書影
 /* 入力フォームからパラメータを取得 */
 $formList = array('mode', 'email', 'input_userid', 'input_password','input_password2');
 
