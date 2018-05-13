@@ -1,4 +1,5 @@
 <?php
+//会員データベース管理画面
 /* データベース接続設定 */
 /*local server ver*/
 $server = "localhost";
