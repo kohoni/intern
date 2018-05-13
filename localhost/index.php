@@ -1,4 +1,6 @@
 <?php
+//ログインしているかの検査
+//ホーム画面
 session_start();
 
 if(!isset($_SESSION["loginUser"])or(!isset($_COOKIE["logincookie"]))){
