@@ -1,4 +1,5 @@
 <?php
+//動画か画像か
 session_start();
 
 $handle=htmlspecialchars($_POST["handle"]);
